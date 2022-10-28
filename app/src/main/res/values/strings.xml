@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinPro1ToDoList</string>
+    <string name="testingtext">testingtext</string>
+    <string name="taks_complete" />
+    <string name="add_a_new_taks">add a new taks</string>
+    <string name="new_taks">new taks</string>
+    <string name="cancel">cancel</string>
+    <string name="add">add</string>
+    <string name="taks_complete1">taks complete</string>
+    <string name="to_do_list">To Do List</string>
+</resources>
